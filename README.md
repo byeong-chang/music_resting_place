@@ -38,3 +38,21 @@
 ## 데이터 출처 
 
 AI-Hub : 웰니스 심리 상담 데이터셋, 감성분석 말뭉치
+
+## 웹 주소
+https://sangwookwoo-music-resting-place-chat-botchatbot-k1rq1h.streamlit.app/
+
+## 실행 예시
+
+### 접속 시 화면
+![image](https://user-images.githubusercontent.com/43203949/228993163-63441e64-335f-43f5-9ecb-38ed0960b4b2.png)
+
+### 챗봇과 대화 후 감정 분석
+![image](https://user-images.githubusercontent.com/43203949/228996975-a2d92df7-09ef-480f-85b0-13e4ec48f74e.png)
+
+### 현재의 감정과 유사한 음악 추천
+![image](https://user-images.githubusercontent.com/43203949/228997041-0205d088-8191-4058-be8d-a029de4c35d2.png)
+
+### 현재의 감정과 반대되는 음악 추천
+![image](https://user-images.githubusercontent.com/43203949/228997072-5ca5af23-35c0-4f0c-93ee-4dff4d189991.png)
+
